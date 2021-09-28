@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Eren
+I'm a Freshman Student at Bilkent University
 
 <!--
 **ernarim/ernarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
