@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Eren
 
-I'm a Sophomore Student at Bilkent University
+I'm a Senior CS Student at Bilkent University
 
 <!--
 **ernarim/ernarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
